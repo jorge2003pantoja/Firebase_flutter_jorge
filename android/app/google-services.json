@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "380796381736",
+    "project_id": "jorgepantoja9b",
+    "storage_bucket": "jorgepantoja9b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:380796381736:android:480aeb338b990bec4e631d",
+        "android_client_info": {
+          "package_name": "com.example.firebase_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCeH7-tzmEXMAPxrVQEmyfCDHMBD5eVBmA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:380796381736:android:b3b72bb7ab4317df4e631d",
+        "android_client_info": {
+          "package_name": "com.example.flutter_firebase_v2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCeH7-tzmEXMAPxrVQEmyfCDHMBD5eVBmA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
